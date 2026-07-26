@@ -1,4 +1,14 @@
 <div align="center">
+  <img
+    src="./cr0na-vampire-banner.gif"
+    width="100%"
+    alt="Cenário vampiresco animado em pixel art de Cr0na"
+  />
+</div>
+
+<br>
+
+<div align="center">
 
 # 𖤐 CR0NA 𖤐
 
