@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Cr0na-cmyk/Cr0na-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 𖤐 CR0NA 𖤐
 
-Here are some ideas to get you started:
+### Frontend Developer · Composer · Pianist & Organist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building digital worlds where code, art and atmosphere meet.*
+
+</div>
+
+---
+
+## 🦇 About Me
+
+```ts
+const cr0na = {
+  name: "Pedro",
+  role: "Frontend Developer",
+  location: "Brazil",
+  interests: [
+    "Web Development",
+    "UI & UX",
+    "Classical Music",
+    "Dark Gothic Design"
+  ],
+  currentlyBuilding: [
+    "World Dream Wall",
+    "Sevora Wellness"
+  ]
+};
